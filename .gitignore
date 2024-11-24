@@ -1,0 +1,12 @@
+# Node.js
+fe_embreo/node_modules
+fe_embreo/.env
+
+# Golang
+be_event/.env
+be_event/tmp
+be_event/logs
+
+# General
+*.log
+*.DS_Store
